@@ -3,7 +3,7 @@
     <!-- From: file:/var/www/AndroidStudioProjects/android_packages_themes_Template-master/theme/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="theme_author">nlmm01</string>
-    <string name="theme_name">Theme 1</string>
+    <string name="theme_name">Theme1</string>
     <!-- From: file:/var/www/AndroidStudioProjects/android_packages_themes_Template-master/theme/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
