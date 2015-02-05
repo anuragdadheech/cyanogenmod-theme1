@@ -160,6 +160,7 @@
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" drawable="calendar" />
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" drawable="camcorder" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="camera" />
